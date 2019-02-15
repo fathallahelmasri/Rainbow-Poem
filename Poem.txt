@@ -5,6 +5,7 @@ blue
 Green
 Inucorn
 Yellow
+Indigo
 orange 
 pink
 
